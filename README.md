@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 
 
 Clone the project and run the command npm install and then npm run dev.
+change the branch from main to master.
