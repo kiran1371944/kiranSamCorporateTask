@@ -10,3 +10,5 @@ Currently, two official plugins are available:
 
 Clone the project and run the command npm install and then npm run dev.
 change the branch from main to master.
+
+![image](https://github.com/kiran1371944/kiranSamCorporateTask/assets/108663249/e0be138c-839a-47cc-87c7-132e186ad843)
